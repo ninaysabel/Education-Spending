@@ -1,3 +1,14 @@
 # Education-Spending
-     Education funding remains one of the most important mechanisms through which governments seek to improve educational opportunity and reduce disparities among students. While federal funding represents a relatively small proportion of total K–12 education expenditures in the United States, it is often directed toward states and districts with greater financial need. Understanding how federal funding interacts with overall educational investment can provide valuable insights into the structural inequalities that exist across educational systems.
-     This project examined state-level education finance data from 2000 through 2022 to investigate the relationship between federal education funding and total per-student spending. Using publicly available data from the National Center for Education Statistics (NCES), the analysis sought to determine whether states that rely more heavily on federal education funding exhibit different spending patterns than states with greater state and local revenue capacity. The project combined exploratory data analysis, frequentist regression, Bayesian modeling, and panel data methods to evaluate the robustness of observed funding relationships
+   Education funding remains one of the most important mechanisms through which governments seek 
+to improve educational opportunity and reduce disparities among students. While federal funding 
+represents a relatively small proportion of total K–12 education expenditures in the United 
+States, it is often directed toward states and districts with greater financial need. 
+Understanding how federal funding interacts with overall educational investment can provide 
+valuable insights into the structural inequalities that exist across educational systems.
+   This project examined state-level education finance data from 2000 through 2022 to 
+investigate the relationship between federal education funding and total per-student spending. 
+Using publicly available data from the National Center for Education Statistics (NCES), the 
+analysis sought to determine whether states that rely more heavily on federal education funding 
+exhibit different spending patterns than states with greater state and local revenue capacity. 
+The project combined exploratory data analysis, frequentist regression, Bayesian modeling, and 
+panel data methods to evaluate the robustness of observed funding relationships
